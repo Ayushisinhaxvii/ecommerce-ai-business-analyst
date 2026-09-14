@@ -23,3 +23,6 @@ data/processed/faiss_index/
 # Operating system files
 .DS_Store
 Thumbs.db
+
+# Geolocation dataset is large and not required by the application
+data/processed/geolocation_clean.csv
