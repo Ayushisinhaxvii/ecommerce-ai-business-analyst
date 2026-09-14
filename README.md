@@ -1,18 +1,4 @@
-Great. 🎯 **GitHub is connected and the project is uploaded.** Now let's make the repository look like a **real portfolio project**, starting with the README.
 
-## Step 1 — Open `README.md`
-
-In VS Code, open:
-
-```text
-README.md
-```
-
-We're going to replace the current basic README with a professional version.
-
-### Step 2 — Replace the entire README with this
-
-````markdown
 # 🛒 E-Commerce AI Business Analyst
 
 An end-to-end **E-Commerce Analytics + AI Business Analyst** platform built using real-world e-commerce data, SQL analytics, Power BI, RAG, FAISS, Gemini, and Streamlit.
