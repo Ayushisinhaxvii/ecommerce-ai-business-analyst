@@ -1,0 +1,12 @@
+pandas
+numpy
+plotly
+openpyxl
+langchain
+langchain-community
+langchain-text-splitters
+sentence-transformers
+faiss-cpu
+google-genai
+python-dotenv
+streamlit
