@@ -1,0 +1,5 @@
+[server]
+
+# Disable Streamlit's file watcher.
+# This prevents optional Transformer modules from being inspected.
+fileWatcherType = "none"
